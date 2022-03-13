@@ -1,0 +1,970 @@
+.body {
+    
+    position: absolute;
+    width: 1440px;
+    height: 139px;
+    left: 0px;
+    top: 0px;
+    background-color: #047EB3;
+}
+
+.logo {
+    /* image 10 */
+    position: absolute;
+    width: 135px;
+    height: 52px;
+    left: 50px;
+    top: 16px;
+
+    background: url(image.png)
+}
+
+.rectangle {
+    /* Rectangle 1 */
+    position: absolute;
+    width: 220px;
+    height: 44px;
+    left: 1022px;
+    top: 20px;
+
+    background: #FFFFFF;
+    border-radius: 12px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #95979B;
+
+}
+
+.search {
+    /* Axtarış et */
+    position: absolute;
+    width: 74px;
+    height: 24px;
+    left: 1055px;
+    top: 30px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #95979B;
+}
+  hr{
+     margin: 0px;
+     margin-top: 80px;
+     height: 1px;
+     background-color: #5653f5;
+     border: #047EB3;
+ } 
+.vector {
+    /* Vector */
+    position: absolute;
+    left: 71.30%;
+    right: 26.81%;
+    top: 25%;
+    bottom: 97.08%;
+
+    background: #CDD1D7;
+}
+
+
+.veb {
+    /* Vebinarlar */
+    position: absolute;
+    width: 127px;
+    height: 36px;
+    left: 350px;
+    top: 24px;
+    text-decoration: none;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+    /* image 26 */
+
+
+}
+
+.img26 {
+    position: absolute;
+    left: -25%;
+    right: 4.17%;
+    top: 9.17%;
+    bottom: 8.33%;
+}
+
+.canli {
+    /* Canlı yayın */
+    position: absolute;
+    width: 136px;
+    height: 36px;
+    left: 588px;
+    top: 24px;
+    text-decoration: none;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19.5px;
+    line-height: 36px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+}
+
+.img3 {
+
+    position: absolute;
+    left: -25%;
+    right: 4.17%;
+    top: 9.17%;
+    bottom: 8.33%;
+
+}
+
+.news {
+    /* Mednews */
+    position: absolute;
+    width: 111px;
+    height: 36px;
+    left: 814px;
+    top: 24px;
+    text-decoration: none;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+
+.img23 {
+    position: absolute;
+    left: -25%;
+    right: 0%;
+    top: 4.32%;
+    bottom: 4.32%;
+
+
+}
+
+.sing {
+    position: absolute;
+    width: 58px;
+    height: 24px;
+    left: 1260px;
+    top: 29px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+
+.h1 {
+    position: absolute;
+    width: 202px;
+    height: 48px;
+    left: 602px;
+    top: 228px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+}
+
+h1 {
+    /* Xoş gəldiniz! */
+    position: absolute;
+    width: 202px;
+    height: 48px;
+    left: 602px;
+    top: 228px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+h3 {
+    /* Zəhmət olmasa qeydiyyatınızı tamamlayın! */
+
+
+    position: absolute;
+    width: 352px;
+    height: 24px;
+    left: 532px;
+    top: 281px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.grey_box {
+    /* Daxil ol */
+    position: absolute;
+    width: 58px;
+    height: 24px;
+    left: 583px;
+    top: 366px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.grey_box {
+    /* Rectangle 116 */
+    position: absolute;
+    width: 206px;
+    height: 48px;
+    left: 507px;
+    top: 354px;
+
+    background: #F4F4F4;
+    border-radius: 4px;
+}
+
+.blue_box {
+    /* Qeydiyyat */
+    position: absolute;
+    width: 83px;
+    height: 24px;
+    left: 794px;
+    top: 366px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.blue_box {
+    /* Rectangle 112 */
+    position: absolute;
+    width: 206px;
+    height: 48px;
+    left: 729px;
+    top: 354px;
+
+    background: #047EB3;
+    border-radius: 4px;
+}
+
+
+.news2, .project, .books, .arxiv, .meqale, .vebinar, .canli_yayin, .form {
+
+    position: absolute;
+    width: 72px;
+    height: 24px;
+    left: 177px;
+    top: 100px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.books {
+    position: absolute;
+    width: 64px;
+    height: 24px;
+    left: 297px;
+    top: 100px;
+}
+
+.news2 {
+    position: absolute;
+    width: 72px;
+    height: 24px;
+    left: 50px;
+    top: 100px;
+}
+
+.arxiv {
+    position: absolute;
+    width: 59px;
+    height: 24px;
+    left: 409px;
+    top: 100px;
+}
+
+.meqale {
+    position: absolute;
+    width: 80px;
+    height: 24px;
+    left: 516px;
+    top: 100px;
+}
+
+.vebinar {
+    position: absolute;
+    width: 85px;
+    height: 24px;
+    left: 644px;
+    top: 100px;
+}
+
+.canli_yayin {
+    position: absolute;
+    width: 91px;
+    height: 24px;
+    left: 777px;
+    top: 100px;
+}
+
+.form {
+    position: absolute;
+    width: 91px;
+    height: 24px;
+    left: 915px;
+    top: 100px;
+}
+
+
+
+.sing_box {
+    position: absolute;
+    width: 428px;
+    height: 46.07px;
+    left: 507px;
+    top: 526.05px;
+   
+    background: #FFFFFF;
+    border: 1px solid #F4F4F4;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.sing_box2 {
+    position: absolute;
+    width: 428px;
+    height: 46.07px;
+    left: 507px;
+    top: 625.05px;
+
+    background: #FFFFFF;
+    border: 1px solid #F4F4F4;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.sing_box3 {
+    position: absolute;
+    width: 428px;
+    height: 46.07px;
+    left: 507px;
+    top: 724.05px;
+
+    background: #FFFFFF;
+    border: 1px solid #F4F4F4;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.sing_box4 {
+    position: absolute;
+    width: 428px;
+    height: 46.07px;
+    left: 507px;
+    top: 825.21px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F4F4F4;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.name{
+    position: absolute;
+width: 22px;
+height: 24px;
+left: 508px;
+top: 493px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.surname{
+    position: absolute;
+width: 51px;
+height: 24px;
+left: 508px;
+top: 592px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.email{
+    position: absolute;
+width: 45px;
+height: 24px;
+left: 508px;
+top: 691px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+    
+.pass{
+    
+position: absolute;
+width: 41px;
+height: 24px;
+left: 508px;
+top: 792.16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.remember{
+    position: absolute;
+left: 508px;
+top: 890px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+color: #000000;
+}
+button{
+    position: absolute;
+width: 427px;
+height: 48px;
+left: 508px;
+top: 894px;
+font-size: 18px;
+
+background: #047EB3;
+border-radius: 8px;
+color: #FFFFFF;
+}
+.and{
+    /* Və ya */
+position: absolute;
+width: 34px;
+height: 18px;
+left: 704px;
+top: 962px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+color: #A8A8A8;
+}
+.facebook{
+    /* Rectangle 1 */
+    position: absolute;
+width: 206px;
+height: 48px;
+left: 507px;
+top: 1000px;
+
+background: #FFFFFF;
+border: 1px solid #F3F3F3;
+box-sizing: border-box;
+box-shadow: 0px 10px 10px rgba(71, 71, 71, 0.25);
+border-radius: 8px;
+}
+.face{
+    /* image 19 */
+position: absolute;
+width: 74px;
+height: 16px;
+left: 573px;
+top: 1016px;
+
+background: url(image.png);
+}
+.google{
+    /* Rectangle 2 */
+position: absolute;
+width: 206px;
+height: 48px;
+left: 729px;
+top: 1000px;
+
+background: #FFFFFF;
+border: 1px solid #F3F3F3;
+box-sizing: border-box;
+box-shadow: 0px 10px 10px rgba(71, 71, 71, 0.25);
+border-radius: 8px;
+
+}
+.glg{
+    /* image 18 */
+position: absolute;
+width: 74px;
+height: 24px;
+left: 795px;
+top: 1012px;
+
+background: url(image.png);
+}
+.page_end{
+    /* Rectangle */
+position: absolute;
+width: 1440px;
+height: 544px;
+left: 0px;
+top: 1170px;
+
+background: #047EB3;
+}
+.page_end_logo{
+    /* image 9 */
+position: absolute;
+width: 93px;
+height: 36px;
+left: 100px;
+top:1250px;
+
+background: url(image.png);
+}
+.copyright{
+    position: absolute;
+    width: 200px;
+    left: 100px;
+    top:1300px;
+    color: #FFFFFF;
+}
+.page_end_page{
+    /* Services */
+position: absolute;
+height: 23px;
+left: 45.97%;
+right: 49.31%;
+top: calc(50% - 23px/2 + 1170.5px);
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: -0.231818px;
+    
+color: #FFFFFF;
+}
+.vebinar_end_page{
+    /* Vebinar */
+
+
+position: absolute;
+height: 23px;
+left: 59.79%;
+right: 37.08%;
+top: calc(50% - 23px/2 + 1170.5px);
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: -0.231818px;
+
+color: #FFFFFF;
+}
+.connect_end_page{
+    position: absolute;
+height: 23px;
+left: 73.79%;
+right: 25.08%;
+top: calc(50% - 23px/2 + 1170.5px);
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: -0.231818px;
+
+color: #FFFFFF
+}
+
+.Layiheler{
+    position: absolute;
+    top: 30px;
+    width: 0%;
+    height: 0%;
+}
+
+.projects,.mednews, .scientific_article, .live_broadcast, .archive, .box, .vebinars{
+    /* Layihələr */
+position: absolute;
+width: 67px;
+height: 28px;
+left: 663px;
+top: 1268px;
+text-decoration: none;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: -0.204545px;
+color: #FFFFFF;
+}
+.mednews{
+    /* MedNews */
+position: absolute;
+width: 74px;
+height: 28px;
+left: 663px;
+top: 1308px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: -0.204545px;
+
+color: #FFFFFF;
+}
+.scientific_article{
+    /* Elmi məqalələr */
+position: absolute;
+width: 108px;
+height: 28px;
+left: 663px;
+top: 1348px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: -0.204545px;
+
+color: #FFFFFF;
+}
+.live_broadcast{
+    /* Canlı Yayım */
+position: absolute;
+width: 85px;
+height: 28px;
+left: 663px;
+top: 1388px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: -0.204545px;
+
+color: #FFFFFF;
+
+}
+.archive{
+    /* Arxiv */
+position: absolute;
+width: 40px;
+height: 28px;
+left: 663px;
+top: 1428px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: -0.204545px;
+
+color: #FFFFFF;
+}
+.box{
+    /* Kitablar */
+position: absolute;
+width: 58px;
+height: 28px;
+left: 663px;
+top: 1468px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: -0.204545px;
+
+color: #FFFFFF;
+}
+.vebinars{
+    /* Vebinar */
+position: absolute;
+width: 57px;
+height: 28px;
+left: 663px;
+top: 1508px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: -0.204545px;
+
+color: #FFFFFF;
+}
+
+.vebinar3{
+    position: absolute;
+    top: 30px;
+    left: -3px;
+  
+}
+
+.confidentiality, .pay, .back, .customer_service
+{
+    position: absolute;
+   width: 200px;
+    height: 28px;
+    left: 865px;
+    top: 1268px;
+    text-decoration: none;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+  
+    color: #FFFFFF;
+
+}
+
+.pay{
+    position: absolute;
+    width: 200px;
+    height: 28px;
+    left: 865px;
+    top: 1308px;
+    text-decoration: none;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+  
+    color: #FFFFFF;
+}
+.back{
+    position: absolute;
+    height: 28px;
+    left: 865px;
+    top: 1348px;
+    text-decoration: none;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+  
+    color: #FFFFFF;
+}
+.customer_service{
+    position: absolute;
+    height: 28px;
+    left: 865px;
+    top: 1388px;
+    text-decoration: none;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+  
+    color: #FFFFFF;
+}
+.contact{
+    position: absolute;
+    top: 30px;
+    left: 13px;
+}
+
+.location, .info, .number, .home_number{
+    position: absolute;
+width: 400px;
+height: 28px;
+left: 1050px;
+top: 1268px;
+text-decoration: none;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: -0.204545px;
+color: #FFFFFF;
+}
+ .info{
+    position: absolute;
+    width: 400px;
+    height: 28px;
+    left: 1050px;
+    top: 1302px;
+    text-decoration: none;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+  
+    color: #FFFFFF;
+ }
+ .number{
+    position: absolute;
+    width: 400px;
+    height: 28px;
+    left: 1050px;
+    top: 1348px;
+    text-decoration: none;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+  
+    color: #FFFFFF;
+ }
+ .home_number{
+    position: absolute;
+    width: 400px;
+    height: 28px;
+    left: 1050px;
+    top: 1388px;
+    text-decoration: none;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+  
+    color: #FFFFFF;
+ }
